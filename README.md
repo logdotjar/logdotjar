@@ -27,5 +27,5 @@
   ### :telephone_receiver: Contact with me 
   <p>
     <a href="mailto:devofjar@gmail.com"><img src="https://img.shields.io/badge/Send Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://logdotjar.github.io/"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<!--     <a href="https://logdotjar.github.io/"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> -->
   </p>
